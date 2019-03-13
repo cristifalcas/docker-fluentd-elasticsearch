@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'fluentd', '~>1.3.3'
+gem 'fluentd', '~>1.4.0'
 gem 'fluent-plugin-concat', '~>2.3.0'
 gem 'fluent-plugin-detect-exceptions', '~>0.0.12'
 gem 'fluent-plugin-elasticsearch', '~>3.3.1'
